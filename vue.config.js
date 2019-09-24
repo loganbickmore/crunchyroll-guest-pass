@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: "/cr-guest-pass",
+  publicPath: "/crunchyroll-guest-pass",
   outputDir: "docs"
 };
